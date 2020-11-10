@@ -12,7 +12,7 @@
     <p>Build by &hearts; by Wildnano.</p>
     <p><a href="/">Revenir à l'accueil</a></p>
     <footer>
-        <p>&copy; Copyright {{ date('Y') }} &middot; <a href="/about-us">About Us</a></p>
+        <p>&copy; Copyright {{ date('Y') }}</a></p>
     </footer>
 </body>
 
