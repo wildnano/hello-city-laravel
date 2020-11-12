@@ -1,4 +1,4 @@
-@extends('app')
+@extends('layouts.app')
 
 @section('content')
 <img src="{{ asset('/images/drapeau_madinina01.png') }}" alt="Madinina Flag" class="mt-12 rounded h-32">
